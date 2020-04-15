@@ -1,0 +1,24 @@
+h2{
+	color: blueviolet;
+	background-color: aliceblue;
+	font-size: 30px;
+	text-align:center;
+}
+#my-id{ 
+	color:blueviolet;
+		background-color:aliceblue;
+	text-align:center;
+}
+.my-class{
+	background-color:lightblue;
+	border:1px solid blue;
+	text-align:center;
+	padding:50;
+	margin: 50px
+}
+body {
+  background-image: url("../images/Japanese_Wave_Seamless_Pattern.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
