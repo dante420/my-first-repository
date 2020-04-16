@@ -4,21 +4,34 @@ h2{
 	font-size: 30px;
 	text-align:center;
 }
+h3{
+	background-image: url("../images/sKWDIq4.jpg");;
+	
+	font-size: 20px;
+	padding: 15px;
+	margin:40px;
+	color:white;
+	border:5px solid white;
+}
 #my-id{ 
 	color:blueviolet;
 		background-color:aliceblue;
 	text-align:center;
+	
 }
 .my-class{
-	background-color:lightblue;
-	border:1px solid blue;
+	
+	color:white;
+	background-color:black;
+	border:3px solid white;
 	text-align:center;
 	padding:50;
 	margin: 50px
 }
 body {
-  background-image: url("../images/Japanese_Wave_Seamless_Pattern.jpg");
+ background-color: #4B4A4A;
   background-repeat: no-repeat;
   background-attachment: fixed;
+	width: 60
 }
 
